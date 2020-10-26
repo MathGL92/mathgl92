@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##### About me 🔭
-I'm a French software engineer based in Melbourne, Australia. :fr: :aus:
+I'm a French software engineer based in Melbourne, Australia. :fr: :au:
 With a background in Sales and Marketing in FMCG sector, I am good at understanding customer needs and adapting in a fast moving environment.
 
 I have always been curious about the tech industry and I recently started my journey in web development with Le Wagon Melbourne: a 9-week intensive coding bootcamp learning HTML, CSS, JavaScript ES2015, SQL and Ruby on Rails. Towards the end of the bootcamp I developed with my team a Rails prototype of a market place application (www.proudly-aussie.com) which allows local producers to sell their products to anyone living in Australia.
