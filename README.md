@@ -30,4 +30,4 @@ I am also looking for opportunities as a Junior Software Developer, within a tea
 
 I will be very happy to catch up with you around a beer :beer: or a coffee :coffee:
 
-You can contact me through my [email](mathieu.longe@orange.fr) or visit my [linkedin](https://www.linkedin.com/in/mathieu-longe/).
+You can contact me through my [email](mailto:mathieu.longe@orange.fr) or visit my [linkedin](https://www.linkedin.com/in/mathieu-longe/).
