@@ -1,4 +1,4 @@
-### Hi there my name is Mathieu 👋
+### Hi there I'm Mathieu 👋
 
 <!--
 **MathGL92/mathgl92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
