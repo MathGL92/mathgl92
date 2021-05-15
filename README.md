@@ -1,19 +1,5 @@
 ### Hi there I'm Mathieu 👋
 
-<!--
-**MathGL92/mathgl92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ##### About me 🔭
 I'm a French software engineer based in Melbourne, Australia. :fr: :australia:
 
@@ -23,8 +9,7 @@ I have always been curious about the tech industry and I recently started my jou
 
 When I am not coding, I love hiking :running:, traveling :earth_africa: and good food/wine :wine_glass:. 
 
-I am now working as a Teacher Assitant in [Le Wagon Melbourne](https://www.lewagon.com/melbourne). 
-I am also looking for opportunities as a Junior Software Developer, within a team that builds great tech products and with a strong positive social impact. 
+I am now working as a Software Engineer at TallyGroup and as a Teacher Assistant in [Le Wagon Melbourne](https://www.lewagon.com/melbourne). 
 
 ##### How to reach me 📫 
 
