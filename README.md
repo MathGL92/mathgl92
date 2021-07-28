@@ -32,7 +32,7 @@ I am now working as a Software Engineer at TallyGroup and as a Teacher Assistant
 
 <a href="https://github.com/MathGL92">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathGL92&hide=shell,lua,vim%20script,dockerfile,javascript,css&hide_border=true"/></a>
-<a href="https://github.com/enitschorn">
+<a href="https://github.com/MathGL92">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MathGL92&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
 </a>
 
