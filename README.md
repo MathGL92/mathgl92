@@ -31,9 +31,9 @@ I am now working as a Software Engineer at TallyGroup and as a Teacher Assistant
 <h1 align="center">GitHub statistics<h1>
 
 <a href="https://github.com/MathGL92">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathGL92&hide=shell,lua,vim%20script&hide_border=true"/></a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathGL92&theme=dark&hide=shell,lua,vim%20script&hide_border=true"/></a>
 <a href="https://github.com/MathGL92">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MathGL92&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MathGL92&theme=dark&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
 </a>
 
 ---
