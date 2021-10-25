@@ -11,7 +11,7 @@ I have always been curious about the tech industry and I recently started my jou
 
 When I am not coding, I love hiking :running:, traveling :earth_africa: and good food/wine :wine_glass:. 
 
-I am now working as a Software Engineer at TallyGroup and as a Teacher Assistant in [Le Wagon Melbourne](https://www.lewagon.com/melbourne). 
+I am now working as a Software Engineer at 99designs and as a Teacher at [Le Wagon Melbourne](https://www.lewagon.com/melbourne). 
 
 ---
 
